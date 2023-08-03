@@ -1,0 +1,1 @@
+Creating a delete item function in Ingredients component.
